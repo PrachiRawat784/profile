@@ -17,11 +17,11 @@
 
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
-- 🔭 I’m currently working on  Soy Estudiante
+
   
-- 🌱 I’m currently learning Git, Java y GitHub
+- 🌱 I’m currently learning python libraries
   
-- 👯 I’m looking to collaborate on Proyectos
+- 👯 I’m looking to collaborate on Data Analytics and Data visualization
   
 - 💬 Ask me about Sql, Java, C#, JavaScript
   
